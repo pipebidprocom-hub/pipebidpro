@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="PipeBid Pro icon">
+  <rect width="512" height="512" rx="96" fill="#0f6f80"/>
+  <path fill="#f6fbfb" d="M130 178h198c31 0 56 25 56 56v8h-72v-8c0-9-7-16-16-16H130z"/>
+  <path fill="#f6fbfb" d="M130 294h198c31 0 56-25 56-56v-8h-72v8c0 9-7 16-16 16H130z"/>
+  <path fill="#d0712e" d="M116 158h64v156h-64c-18 0-32-14-32-32v-92c0-18 14-32 32-32z"/>
+  <path fill="#f6fbfb" d="M395 298l33 33-26 26-33-33-48 48-30-30 48-48-31-31 26-26 31 31 47-47 30 30z"/>
+</svg>
